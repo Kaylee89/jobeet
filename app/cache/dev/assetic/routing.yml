@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /Users/kaylee/Sites/jobeet/app/config/routing_dev.yml
